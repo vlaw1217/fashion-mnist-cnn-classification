@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Large data/model folders
+data/
+models/
